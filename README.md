@@ -31,5 +31,5 @@ This project demonstrates how to implement user authentication and authorization
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Mu2011/JWT-Tokens.git
    ```
